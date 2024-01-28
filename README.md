@@ -1,3 +1,2 @@
-Hello, welcome to my profile, my name is Farah Mahmud, I am 29 years old, from the city of Passo Fundo in the state of Rio Grande do Sul, Brazil.
-
-My profile is focused on studies and learning, looking to become a developer.
+Bem-vindo ao meu perfil! 👋
+Sou um entusiasta da programação, apaixonado por resolver problemas e aprender constantemente. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e explorando diversas áreas no vasto mundo do desenvolvimento de software.
